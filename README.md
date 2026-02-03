@@ -1,4 +1,4 @@
-VPN and VLESS Guide
+# VPN and VLESS Guide
 
 This repository is dedicated to helping users understand VPNs and set up their own VPN server using the **VLESS protocol**. The content is designed to be educational, practical, and fully compatible with GitHub guidelines.
 
